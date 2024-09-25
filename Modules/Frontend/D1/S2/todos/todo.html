@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>To-do List</title>
+    <script src="https://unpkg.com/vue@3"></script>
+</head>
+
+<body>
+    <div id="app">
+        <h3>Add to do items</h3>
+        <input type="text" id="todoInput" v-model="newTodo">
+        <button @click="addTodo">Add</button>
+        <ul>
+            <li v-for="(todo, index) in todos" :key="index">
+                {{ todo }}
+                <button @click="completeTodo(index)">Complete</button>
+                <button @click="deleteTodo(index)">Delete</button>
+            </li>
+        </ul>
+    </div>
+    <script src="todo.js"></script>
+</body>
+
+</html>

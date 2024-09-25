@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>VueJS CADT W1 D1</title>
+    <script src="https://unpkg.com/vue@3"></script>
+</head>
+
+<body>
+    <div id="app">
+        <h1>My Title</h1>
+        <h3>Please type something: </h3>
+        <input type="text" v-model="article">
+        <p> {{ message }} - {{counter}}</p>
+        <p> {{ article }} </p>
+        <p> {{counter}}</p>
+        <button @click="increment">Increase Counter</button>
+        <button @click="decrement">Decrease Counter</button>
+        <p v-for="(job,index) in jobs">{{index}} - {{job}} </p>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
