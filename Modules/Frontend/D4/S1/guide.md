@@ -1,6 +1,6 @@
 # D4 S1: Let's Review JS
 
-Watch recorded class: https://youtu.be/rvW21-qVAIY
+Watch recorded class (S1 + S2): https://youtu.be/_pDatMmb2Gc
 
 ## Object Destructuring
 
