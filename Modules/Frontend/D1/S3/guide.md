@@ -1,7 +1,5 @@
 ## D1 S3 More on Events
 
-Watch video: https://youtu.be/YTM89Rz5gvM
-
 Welcome to the FullStack BootCamp D3! In this comprehensive guide, you will learn and practice various concepts in Vue 3, including Mouse Over event, Mouse Leave event, Double Click event, Mouse Move event, and Attribute Binding. Let's dive into each concept step by step.
 
 Open your `index.html` and `app.js` files, and modify accordingly.

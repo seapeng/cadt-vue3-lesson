@@ -1,8 +1,8 @@
 # D3 S1: Slots, Form Handling, and Custom Events
 
-Watch video: https://youtu.be/TBfK2HeTN6g
-
+Watch recorded class: https://youtu.be/GfqMVFCA84E
 ## Slots
+
 Slots allow you to compose components and reuse content in different parts of your application.
 
 ### Basic Slot

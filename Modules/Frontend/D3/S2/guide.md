@@ -1,7 +1,5 @@
 # D3 S2: Practice form submission & Advanced Validation
 
-Watch video: https://youtu.be/NfbXugPa7Zw
-
 Use the file `register.html` and its style `index.css` to integrate into our `finexo-vue` to create a user registration component and submit the form into our dummy backend.
 
 ## Using VeeValidate for Form Validation

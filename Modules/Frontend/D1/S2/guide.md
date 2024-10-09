@@ -1,7 +1,5 @@
 ## D1 S2: Creating a Small Project with Vue 3 as Widget (CDN)
 
-Watch video: https://youtu.be/mapYyaH0JCw
-
 In this exercise, you'll apply the concepts you've learned about Vue 3 CDN by creating a small interactive project. Let's build a simple to-do list application.
 
 ### Project Overview
